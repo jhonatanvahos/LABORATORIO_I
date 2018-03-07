@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Geometria</string>
+    <string name="cuadrado">Cuadro</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="circulo">Circulo</string>
+    <string name="cubo">Cubo</string>
+    <string name="encabezado">Seleccione la figura:</string>
+    <string name="perimetro">Perímetro:</string>
+    <string name="area">Área:</string>
+    <string name="volumen">Volumen:</string>
+    <string name="Carcular">Carcular</string>
+</resources>

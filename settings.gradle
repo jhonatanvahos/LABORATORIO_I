@@ -1,0 +1,1 @@
+include ':app', ':geometria', ':formulario', ':calculadora', ':cresistencia'
